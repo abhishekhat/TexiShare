@@ -1,4 +1,4 @@
-package me.amitshekhar.ridesharing
+package me.abhi.ridesharing
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
